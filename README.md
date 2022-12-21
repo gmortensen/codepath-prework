@@ -1,2 +1,2 @@
 # codepath-prework
-Codepath prework project. Introduciton generator using Swift.
+Codepath prework project. Introduction generator using Swift.
